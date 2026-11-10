@@ -1,9 +1,9 @@
 # BÀI LÀM –(CHỦ ĐỀ QUẢN LÝ MODEL AI)
 
 - **Mã đề:**
-- **Họ tên:**
-- **Lớp:**
-- **Link repository:**
+- **Họ tên: Ngô Gia Hưng**
+- **Lớp: CNTT3**
+- **Link repository: https://github.com/ngogiahung123/Baikiemtrabuoi23**
 - **Hệ điều hành (Windows/macOS):**
 
 ## 4.2. Thao tác máy tính cơ bản bằng CLI
